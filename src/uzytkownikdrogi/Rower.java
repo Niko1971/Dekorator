@@ -11,7 +11,7 @@ class Rower extends UzytkownikDrogi {
     }
 
     void setPredkosc() {
-        predkosc = 4;
+        predkosc = 2;
     }
 
     @Override

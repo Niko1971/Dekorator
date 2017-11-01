@@ -11,7 +11,7 @@ public class Pieszy extends UzytkownikDrogi {
     }
 
     void setPredkosc() {
-        predkosc = 4;
+        predkosc = 1;
     }
 
     @Override
